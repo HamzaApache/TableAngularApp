@@ -1,0 +1,102 @@
+[ 
+ {cdcivil: "M.", nom: "DUMONCEL", email: "test1@test.test", numecan: "41", prenom: "JEAN-CLAUDE"}
+ {cdcivil: "M.", nom: "LACOSTE", email: "test1@test.test", numecan: "62", prenom: "FRANCIS"}
+ {cdcivil: "M.", nom: "GUERASSIMOV", email: "test1@test.test", numecan: "88", prenom: "BORIS"}
+ {cdcivil: "M.", nom: "DESPOIX", email: "test1@test.test", numecan: "129", prenom: "PHILIPPE"}
+ {cdcivil: "M.", nom: "PERELMAN", email: "test1@test.test", numecan: "156", prenom: "MARC"}
+ {cdcivil: "M.", nom: "MANZANO", email: "test1@test.test", numecan: "169", prenom: "FRANCIS"}
+ {cdcivil: "M.", nom: "LAMBERT", email: "test1@test.test", numecan: "184", prenom: "JEAN"}
+ {cdcivil: "M.", nom: "TRIFFAUX", email: "test1@test.test", numecan: "214", prenom: "JEAN PIERRE"}
+ {cdcivil: "M.", nom: "CASTEL", email: "test1@test.test", numecan: "234", prenom: "PIERRE-HENRI"}
+ {cdcivil: "M.", nom: "DEOTTE", email: "test1@test.test", numecan: "364", prenom: "JEAN-LOUIS"}
+ {cdcivil: "M.", nom: "DURET", email: "test1@test.test", numecan: "380", prenom: "SERGE"}
+ {cdcivil: "Mme", nom: "VOISIN", email: "test1@test.test", numecan: "403", prenom: "PATRICIA"}
+ {cdcivil: "M.", nom: "PLAIN", email: "test1@test.test", numecan: "411", prenom: "ANDRE"}
+ {cdcivil: "Mme", nom: "DEBAT", email: "test1@test.test", numecan: "491", prenom: "MICHELLE"}
+ {cdcivil: "M.", nom: "MAUREL", email: "test1@test.test", numecan: "552", prenom: "CHRISTIAN"}
+ {cdcivil: "M.", nom: "NOSMAS", email: "test1@test.test", numecan: "592", prenom: "JEAN CLARENCE"}
+ {cdcivil: "Mme", nom: "LANDAIS", email: "test1@test.test", numecan: "694", prenom: "JANINE"}
+ {cdcivil: "M.", nom: "MONTESSE", email: "test1@test.test", numecan: "735", prenom: "ALAIN"}
+ {cdcivil: "Mme", nom: "DE KAROLY", email: "test1@test.test", numecan: "770", prenom: "MARTINE"}
+ {cdcivil: "Mme", nom: "LAMOUR", email: "test1@test.test", numecan: "1006", prenom: "VIRGINIE"}
+ {cdcivil: "M.", nom: "GUERMOUCHE", email: "test1@test.test", numecan: "1032", prenom: "MOULAY-HASSANE"}
+ {cdcivil: "Mme", nom: "MOUZE", email: "test1@test.test", numecan: "1096", prenom: "GENEVIEVE"}
+ {cdcivil: "M.", nom: "MUSSO", email: "test1@test.test", numecan: "1099", prenom: "JEAN"}
+ {cdcivil: "M.", nom: "MANIGAND", email: "test1@test.test", numecan: "1332", prenom: "ALAIN"}
+ {cdcivil: "M.", nom: "BOURSIER", email: "test1@test.test", numecan: "1375", prenom: "JEAN YVES"}
+ {cdcivil: "M.", nom: "MONTELLA", email: "test1@test.test", numecan: "1384", prenom: "CLAUDE"}
+ {cdcivil: "M.", nom: "MONNET", email: "test1@test.test", numecan: "1414", prenom: "JACQUES"}
+ {cdcivil: "Mme", nom: "MARIE", email: "test1@test.test", numecan: "1549", prenom: "GISELE"}
+ {cdcivil: "M.", nom: "GROC", email: "test1@test.test", numecan: "1712", prenom: "GERARD"}
+ {cdcivil: "M.", nom: "LE SUEUR", email: "test1@test.test", numecan: "1924", prenom: "BERNARD"}
+ {cdcivil: "Mme", nom: "SIARRI", email: "test1@test.test", numecan: "2180", prenom: "NADINE"}
+ {cdcivil: "M.", nom: "SHAKOURZADEH BOLOURI", email: "test1@test.test", numecan: "2216", prenom: "KHALIL"}
+ {cdcivil: "M.", nom: "MARTIN", email: "test1@test.test", numecan: "2320", prenom: "CHRISTIAN"}
+ {cdcivil: "M.", nom: "DROUIN", email: "test1@test.test", numecan: "2422", prenom: "BERNARD"}
+ {cdcivil: "M.", nom: "GIRAUD", email: "test1@test.test", numecan: "2515", prenom: "ERIC"}
+ {cdcivil: "M.", nom: "SIMONNEAUX", email: "test1@test.test", numecan: "2533", prenom: "GERARD"}
+ {cdcivil: "M.", nom: "COUDERC", email: "test1@test.test", numecan: "2933", prenom: "REMY"}
+ {cdcivil: "M.", nom: "GAY", email: "test1@test.test", numecan: "3032", prenom: "HENRI"}
+ {cdcivil: "M.", nom: "GABSI", email: "test1@test.test", numecan: "3063", prenom: "ABDALLAH"}
+ {cdcivil: "M.", nom: "LOUGMANI", email: "test1@test.test", numecan: "3092", prenom: "NAJIB"}
+ {cdcivil: "Mme", nom: "REY", email: "test1@test.test", numecan: "3114", prenom: "MARTINE"}
+ {cdcivil: "M.", nom: "RAZAGHI", email: "test1@test.test", numecan: "3154", prenom: "AHMAD"}
+ {cdcivil: "M.", nom: "VICENS", email: "test1@test.test", numecan: "3176", prenom: "JEAN"}
+ {cdcivil: "M.", nom: "LACOUR", email: "test1@test.test", numecan: "3295", prenom: "BERNARD"}
+ {cdcivil: "M.", nom: "BAC", email: "test1@test.test", numecan: "3354", prenom: "PIERRE"}
+ {cdcivil: "M.", nom: "GIERES", email: "test1@test.test", numecan: "3542", prenom: "FRANCOIS"}
+ {cdcivil: "M.", nom: "DUFOUR", email: "test1@test.test", numecan: "3671", prenom: "CLAUDE"}
+ {cdcivil: "M.", nom: "LODE", email: "test1@test.test", numecan: "3675", prenom: "THIERRY"}
+ {cdcivil: "Mme", nom: "FOKA", email: "test1@test.test", numecan: "4290", prenom: "MARIA"}
+ {cdcivil: "Mme", nom: "CHAZALET", email: "test1@test.test", numecan: "4591", prenom: "MICHELE"}
+ {cdcivil: "M.", nom: "PICQUENARD", email: "test1@test.test", numecan: "4673", prenom: "ERIC"}
+ {cdcivil: "M.", nom: "TANGEAOUI", email: "test1@test.test", numecan: "4680", prenom: "SAID"}
+ {cdcivil: "M.", nom: "LEMMOUCHI", email: "test1@test.test", numecan: "4753", prenom: "YAHIA"}
+ {cdcivil: "M.", nom: "SERVANT", email: "test1@test.test", numecan: "4979", prenom: "LAURENT"}
+ {cdcivil: "M.", nom: "BERTHOD", email: "test1@test.test", numecan: "4980", prenom: "FRANCOIS"}
+ {cdcivil: "M.", nom: "ROUET", email: "test1@test.test", numecan: "5016", prenom: "GILLES"}
+ {cdcivil: "M.", nom: "BENNANI-MEZIANE", email: "test1@test.test", numecan: "5030", prenom: "YOUNES"}
+ {cdcivil: "M.", nom: "BENDAHHOU", email: "test1@test.test", numecan: "5185", prenom: "SAID"}
+ {cdcivil: "Mme", nom: "BLONDEL", email: "test1@test.test", numecan: "5255", prenom: "NICOLE"}
+ {cdcivil: "M.", nom: "DARRIULAT", email: "test1@test.test", numecan: "5274", prenom: "JACQUES"}
+ {cdcivil: "M.", nom: "DUHOT", email: "test1@test.test", numecan: "5275", prenom: "JEAN JOEL"}
+ {cdcivil: "M.", nom: "ARMENGAUD", email: "test1@test.test", numecan: "5359", prenom: "JEAN-PIERRE"}
+ {cdcivil: "M.", nom: "GONARD", email: "test1@test.test", numecan: "5435", prenom: "THIERRY"}
+ {cdcivil: "M.", nom: "CAZABAN", email: "test1@test.test", numecan: "5446", prenom: "COSTIN"}
+ {cdcivil: "M.", nom: "MENORET", email: "test1@test.test", numecan: "5470", prenom: "LUC"}
+ {cdcivil: "M.", nom: "DELAITE", email: "test1@test.test", numecan: "5705", prenom: "RICHARD"}
+ {cdcivil: "M.", nom: "HERBIN", email: "test1@test.test", numecan: "6252", prenom: "MICHEL"}
+ {cdcivil: "M.", nom: "PRINCE AGBODJAN", email: "test1@test.test", numecan: "6342", prenom: "WILLIAM"}
+ {cdcivil: "M.", nom: "CADET", email: "test1@test.test", numecan: "6443", prenom: "REMI"}
+ {cdcivil: "M.", nom: "MONTMAGNON", email: "test1@test.test", numecan: "6567", prenom: "JEAN-LOUIS"}
+ {cdcivil: "M.", nom: "FENG", email: "test1@test.test", numecan: "6744", prenom: "ZHI-QIANG"}
+ {cdcivil: "Mme", nom: "OULD KADDOUR", email: "test1@test.test", numecan: "6893", prenom: "NACERA"}
+ {cdcivil: "M.", nom: "MICHEL", email: "test1@test.test", numecan: "6980", prenom: "CLAUDE"}
+ {cdcivil: "Mme", nom: "BOUCHERIT", email: "test1@test.test", numecan: "7249", prenom: "AZIZA"}
+ {cdcivil: "Mme", nom: "GABISON", email: "test1@test.test", numecan: "7315", prenom: "MAGUY"}
+ {cdcivil: "M.", nom: "LAGRENEE", email: "test1@test.test", numecan: "7563", prenom: "MICHEL"}
+ {cdcivil: "M.", nom: "COURTOIS", email: "test1@test.test", numecan: "8025", prenom: "CHRISTIAN"}
+ {cdcivil: "M.", nom: "BOUSLIMI", email: "test1@test.test", numecan: "8250", prenom: "JAOUED"}
+ {cdcivil: "M.", nom: "BOHM", email: "test1@test.test", numecan: "8321", prenom: "JEAN-LUC"}
+ {cdcivil: "M.", nom: "DUFRESNE", email: "test1@test.test", numecan: "8370", prenom: "ALAIN"}
+ {cdcivil: "M.", nom: "COUDANE", email: "test1@test.test", numecan: "8572", prenom: "JEAN"}
+ {cdcivil: "M.", nom: "GARREAU", email: "test1@test.test", numecan: "8577", prenom: "HENRI"}
+ {cdcivil: "M.", nom: "CARLIER", email: "test1@test.test", numecan: "8603", prenom: "PASCAL"}
+ {cdcivil: "M.", nom: "STAMBACH", email: "test1@test.test", numecan: "8637", prenom: "JEAN-FRANCOIS"}
+ {cdcivil: "M.", nom: "COHEN", email: "test1@test.test", numecan: "8681", prenom: "RICHARD"}
+ {cdcivil: "M.", nom: "DUFLOUX", email: "test1@test.test", numecan: "8812", prenom: "CLAUDE"}
+ {cdcivil: "M.", nom: "DURAND", email: "test1@test.test", numecan: "8929", prenom: "PIERRE"}
+ {cdcivil: "M.", nom: "MILHAVET", email: "test1@test.test", numecan: "8951", prenom: "JEAN-CLAUDE"}
+ {cdcivil: "M.", nom: "RAMIREZ", email: "test1@test.test", numecan: "9110", prenom: "FRANCIS"}
+ {cdcivil: "M.", nom: "MENARD", email: "test1@test.test", numecan: "9119", prenom: "JEAN JACQUES"}
+ {cdcivil: "M.", nom: "BARBIN", email: "test1@test.test", numecan: "9177", prenom: "VINCENT"}
+ {cdcivil: "Mme", nom: "ASSAEL", email: "test1@test.test", numecan: "9181", prenom: "JACQUELINE"}
+ {cdcivil: "Mme", nom: "MESSEY", email: "test1@test.test", numecan: "9193", prenom: "ANNIE"}
+ {cdcivil: "Mme", nom: "EL ALAOUI", email: "test1@test.test", numecan: "9195", prenom: "NARJYS"}
+ {cdcivil: "M.", nom: "GUNDERMANN", email: "test1@test.test", numecan: "9272", prenom: "JEAN-LUC"}
+ {cdcivil: "Mme", nom: "SALLES", email: "test1@test.test", numecan: "9320", prenom: "CATHERINE"}
+ {cdcivil: "M.", nom: "BELKHATIR", email: "test1@test.test", numecan: "9402", prenom: "ABDEL AZIZ"}
+ {cdcivil: "M.", nom: "BOURREAU", email: "test1@test.test", numecan: "9602", prenom: "RENE"}
+ {cdcivil: "M.", nom: "BENSOUSSAN", email: "test1@test.test", numecan: "9765", prenom: "MAURICE"}
+ {cdcivil: "M.", nom: "BLOND", email: "test1@test.test", numecan: "9782", prenom: "JEAN-PAUL"}
+]
